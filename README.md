@@ -9,7 +9,7 @@ The aim of OpenPhacts project is precisely to connect these resources (i.e. acad
 On top of this API several applications (exemplars) are being designed. In this document we present the Target Dossier application version 0.2; which has been released on August 2012 to the OPS consortium for testing.  
 
 
-Target Dossier App
+Target Dossier App ([live demo](http://td.inab.org))
 ==================
 The Target Dossier (TD) goal is to provide a comprehensive view of pharmacologically relevant targets to answer questions regarding druggability, tissue expression profiles and implications in pathways, disease states and physiological mechanisms. 
 As the name indicates TD is mainly focused on drug targets allowing users to explore target relevant data that is gathered from very different resources. However it could be argued that several systems and databases sharing the same goal already exist (see for example (Gaulton et al., 2012) (Wu et al., 2009)), the complexity of this integration process justifies the co-existence of different tools/approaches. Particularly this integration entails two main challenges: the information technology challenge (how to combine the data in term of software, APIs, etc.) and the scientific challenge (which data should be taken into account and which methodologies must be followed to integrate the data and extract new knowledge).
